@@ -6,8 +6,8 @@
 input[type="range"] {
   -webkit-appearance: none;
   appearance: none;
-  width: 30%;
-  height: 10px;
+  /*width: 30%;
+  height: 10px;*/
   background: #ddd; /* Çizgi rengi */
   border-radius: 20px; /* Çizgi yuvarlaklığı */
   outline: none;
