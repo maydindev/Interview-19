@@ -1,4 +1,5 @@
-import './globals.css'
+//import './globals.css'
+import '../styles.css'
 import { Mukta } from 'next/font/google'
 
 const mukta_init = Mukta({
